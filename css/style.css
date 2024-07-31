@@ -1,0 +1,149 @@
+
+
+body {
+    padding:0px;
+    margin:0px;
+    overflow-x: hidden;
+    min-height: 1500px;
+    font-family: "Inter", sans-serif;
+
+}
+.container-fuid {
+    padding:0px;
+    margin:0px;    
+}
+.main-body-web {
+    border-bottom: 1px solid #e3e9e8;
+    height: 71px;
+}
+.main-body-web .col-md-4 {
+    padding:0px;
+}
+
+.logo-main {
+    background-color:#2bb673;
+}
+.logo-main img {
+    padding: 0 0 0 100px;
+}
+.all-cate-div {
+    position: absolute;
+    top: 5px;
+    right: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #555555 !important;
+} 
+
+.dropbtn {
+    background-color: #2bb673;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  } */
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #2bb673;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    text-decoration: none;
+  }
+  
+  .dropdown-content a {
+    color: rgb(255, 255, 255);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {
+    background-color: #fff;
+    text-decoration: none;
+}
+  
+  .show {
+    display: block;
+}
+.search-container {
+    border-right:1px solid #e3e9e8;
+}
+.search-container input {
+    width: 88%;
+    border: none;
+    padding: 20px 0 26px 25px;
+}
+.sign-in-div {
+    margin: 8px 0 0 65px;
+}
+.sign-in-div ul {
+    list-style:none;
+    padding:0px;
+    margin: 0;
+}
+.sign-in-div ul span {
+    padding: 0 0 0 45px;
+}
+.sign-in-div ul li {
+    padding: 2px;
+    float: left;
+    line-height: 7px;
+}
+.sign-in-div ul li a {
+    color:#555555;
+}
+.cart-span {
+    margin: 0 0 0 0px;
+}
+.cart-num {
+    padding:0px !important;
+}
+.cart-count {
+    background-color: #f0f4f4;
+    border-radius: 3px;
+    margin: 4px 0 0 16px;
+}
+.container-full-main {
+    margin: 0 auto;
+    width: 88%;
+}
+.nav-right {
+    text-align:right;
+    margin: 0 0 0 33%;
+}
+.offer-nav {
+    font-size:15px !important;
+}
+.icons-list {
+    margin: 10px 0 0 0px;
+}
+.icons-listing span {
+    padding: 0 0 0 44px;
+    font-size: 14px;
+}
+.icons-listing {
+    line-height: 5px;
+}
+.banner-bottom-section {
+    margin: 40px 0 0 0;
+}
+.icons-curve {
+    margin: -128px 0 0 0;
+}
+
+
+
